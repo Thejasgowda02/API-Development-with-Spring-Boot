@@ -121,6 +121,6 @@ API endpoints are self-documented using Swagger. Access it at:
 
 
 ## Contact
-For any questions or issues, please contact varungowda1103@gmail.com.
+For any questions or issues, please thejashassan12@gmail.com .
 
 ---
